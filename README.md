@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on  <br>→ Frontend projects as an undergraduate Computer Science student (Informatics Engineering)<br><br>👯 I’m looking to collaborate on  <br>→ Frontend web projects using HTML, CSS, JavaScript, and frontend integration with Laravel & CI4<br><br>🤝 I’m looking for help with  <br>→ Improving UI/UX, frontend best practices, and clean code structure<br><br>🌱 I’m currently learning  <br>→ HTML, CSS, JavaScript  <br>→ PHP, Laravel, CodeIgniter 4 (for frontend integration)  <br>→ Serial Number (SN) and Barcode generation for web-based systems<br><br>💬 Ask me about  <br>→ Frontend development, UI implementation, Laravel & CI4 frontend integration, SN & Barcode usage in web apps<br><br>⚡ Fun fact  <br>→ I can’t code without metal music 🎸  <br>→ Metal music blasting = frontend flowing 🤘
 
 
